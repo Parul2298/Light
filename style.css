@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+/* #container{
+   text-align: center;
+    margin-left: 10px;
+    margin-top: 100px;
+    text-transform: uppercase;
+    text-decoration-style: solid;
+    text-size-adjust: 40px;
+} */
+
+/* #h3{
+    text-align: center;
+    margin-left: 350px;
+} */
+
+body{
+font-family: "Inconsolata", sans-serif;
+height: 100vh;
+background-color: blueviolet;
+display: flex;
+align-items: center;
+justify-content: center;
+text-align: center;
+}
+
+#btn1 ,#btn2{
+    height: 8vh;
+    width: 30vh;
+    box-sizing: border-box;
+    color: black;
+    background-color: yellow;
+    margin: 10vh;
+}
